@@ -10,13 +10,11 @@ public class Main {
 		System.out.println("김슬기");
 		System.out.println("진무");
 		System.out.println("sdsd");
-<<<<<<< HEAD
-		System.out.println("오전11시30분다시테스트");
-=======
 		System.out.println("고흥수");
 		System.out.println("정지호");
+		System.out.println("조성만");
 		
->>>>>>> origin/버그수정_정지호
+		System.out.println("점심먹을시간~");
 	}
 	
 }
