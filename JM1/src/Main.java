@@ -11,6 +11,7 @@ public class Main {
 		System.out.println("진무");
 		System.out.println("sdsd");
 		System.out.println("고흥수");
+		System.out.println("정지호");
 		
 	}
 	
