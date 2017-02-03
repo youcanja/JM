@@ -16,6 +16,9 @@ public class Main {
 		System.out.println("정지호");
 		System.out.println("조성만");
 		
+		System.out.println("점심먹을시간~");
+
+		System.out.println("다시");
 	}
 	
 }
