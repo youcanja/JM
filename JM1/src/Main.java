@@ -19,6 +19,8 @@ public class Main {
 		System.out.println("점심먹을시간~");
 
 		System.out.println("다시");
+		
+		System.out.println("2월3일 금요일 오전 9시 35분");
 	}
 	
 }
