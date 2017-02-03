@@ -16,7 +16,7 @@ public class Main {
 		
 		System.out.println("점심먹을시간~");
 
-		System.out.println("점심");
+		System.out.println("다시");
 	}
 	
 }
